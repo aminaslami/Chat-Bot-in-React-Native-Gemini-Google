@@ -1,4 +1,4 @@
-# Source: 
+# Source: https://github.com/ErenElagz/Beginner-Chat-Bot-in-React-Native-Gemini
 
 # Beginner Level Chat-Bot in React Native
 
